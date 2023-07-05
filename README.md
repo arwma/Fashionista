@@ -11,9 +11,14 @@ Wishlist: Users can add products to their wishlist for future reference.
 Search Functionality: Users can search for specific products by name or keywords.
 
 # Technologies Used
-HTML: Used for structuring the website's content.
+HTML: Used for structuring the website's content.  
+
 CSS: Used for styling and layout purposes.
+
 JavaScript: Used for implementing interactive features and functionality.
+
 Bootstrap: CSS framework for responsive and mobile-first design.
+
 jQuery: JavaScript library for DOM manipulation and AJAX.
+
 FontAwesome: Icon library for stylish icons.
